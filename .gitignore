@@ -1,6 +1,9 @@
 # custome 
 data
-
+export.zip
+.env.examples
+artifacts 
+notebook/yolov7
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
