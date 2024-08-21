@@ -4,6 +4,8 @@ export.zip
 .env.examples
 artifacts 
 notebook/yolov7
+log
+isd_data_mini.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
