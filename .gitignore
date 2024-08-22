@@ -6,6 +6,7 @@ artifacts
 notebook/yolov7
 log
 isd_data_mini.zip
+trained_model
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
