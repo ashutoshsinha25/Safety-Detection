@@ -125,5 +125,3 @@ ECR_REPOSITORY_NAME=simple-app
 Ensure that your `.env` file is listed in the `.gitignore` to prevent it from being tracked by Git.
 
 ---
-
-This should provide a clear and structured README for your GitHub project.
