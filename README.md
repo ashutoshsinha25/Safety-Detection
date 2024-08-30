@@ -82,7 +82,7 @@ Create an IAM user with the following access permissions:
 
 ### Step 4: Create ECR Repository
 Create an ECR repository to store/save the Docker image.
-- Save the URI: `136566696263.dkr.ecr.us-east-1.amazonaws.com/yolov7app`
+- Save the URI: 
 
 ### Step 5: Create EC2 Machine (Ubuntu)
 Open the EC2 instance and install Docker:
